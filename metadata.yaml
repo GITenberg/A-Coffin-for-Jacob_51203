@@ -1,5 +1,5 @@
 _repo: A-Coffin-for-Jacob_51203
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Emshwiller, Ed
@@ -10,19 +10,24 @@ contributor:
     - Emsh, Ed
     - Alexander, Ed
     birthdate: 1925
-    deathdate: &id001 1990
+    deathdate: 1990
     gutenberg_agent_id: '25412'
     url: http://www.gutenberg.org/2009/agents/25412
     wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 51203-h/images/cover.jpg
 creator:
   author:
     agent_name: Ludwig, Edward W.
     alias: Ludwig, Edward William
     birthdate: 1920
-    deathdate: *id001
+    deathdate: 1990
     gutenberg_agent_id: '35976'
     url: http://www.gutenberg.org/2009/agents/35976
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51203#A-Coffin-for-Jacob
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-14'
 gutenberg_type: Text
